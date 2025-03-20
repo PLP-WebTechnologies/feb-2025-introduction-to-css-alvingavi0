@@ -1,0 +1,31 @@
+/* Styling using an ID */
+#intro {
+    color: #555;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* Styling using a class */
+.title {
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-transform: uppercase;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    border: 5px solid #000;
+    margin: 20px auto;
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Adding margin, padding & border */
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Verdana', sans-serif;
+    background-color: #f5f5f5;
+}
